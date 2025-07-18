@@ -461,6 +461,7 @@ hr {
 }
 
 @media screen and (max-width: 770px) {
+
     .footer-left,
     .footer-right {
         flex-basis: 100%;
